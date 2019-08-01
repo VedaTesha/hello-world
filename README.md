@@ -1,2 +1,2 @@
 # hello world
- Hi 
+ Hello world project for learning purpose
